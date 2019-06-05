@@ -1,7 +1,5 @@
 # ServiceDesign
 
-# Service Design 
-
 ## Ideación
 
 Esta etapa del proceso comienza con la creación de posibles soluciones para los problemas ya identificados. En las fases anteriores, centramos nuestros esfuerzos en comprender y concretar la información obtenida en focos de acción. Ahora, tratamos de generar soluciones para esos aspectos elegidos que surgen a partir de las necesidades y deseos para el usuario. 
