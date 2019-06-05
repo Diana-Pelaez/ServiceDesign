@@ -14,7 +14,7 @@ HMW, es un marco perfecto para el pensamiento innovador, la técnica consiste en
 
 A través de esta pregunta, logramos cententrarnos en el problema que es necesario resolver. 
 
-![How might we…?](https://github.com/Diana-Pelaez/HowMightWe.jpg)
+![How might we…?](https://github.com/Diana-Pelaez/ServiceDesign/blob/master/HowMightWe.jpg)
 
 Una vez hecha esta pregunta pudimos comenzar con la etapa de ideación, para la cual 
 usamos la metodología "Clustering", esta se basa en identificar patrones a través de todo un proceso de generación de ideas. Esas ideas se documentan, se establecen familias; después se define si existen conexiones entre ellas, se agrupan por categorías y se identifican.
