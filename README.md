@@ -23,20 +23,23 @@ Este paso representó un reto al equipo de trabajo, porque se puso a prueba la c
 
 Además propusimos ideas inusuales, que rompían con lo establecido para pensar distinto y buscar soluciones innovadoras. En esta etapa cantidad fue mejor que calidad.
 
-![Clustering](https://github.com/Diana-Pelaez/xxxxxxx.jpg)
+![Clustering](https://github.com/Diana-Pelaez/ServiceDesign/blob/master/Clustering.jpg)
 
 Para elejir la que aportara mayor valor tuvimos que conocer y tener en cuenta las necesidades y contexto del negocio (banco) para ello, realizamos el Business Model Canvas y el Canvas Value Proposition.
 
-![Business Model Canvas](https://github.com/Diana-Pelaez/xxxxxxx.jpg)
+![Business Model Canvas](https://github.com/Diana-Pelaez/ServiceDesign/blob/master/BusinessModelCanvas.jpg)
 
-![Canvas Value Proposition](https://github.com/Diana-Pelaez/xxxxxxx.jpg)
+![Canvas Value Proposition](https://github.com/Diana-Pelaez/ServiceDesign/blob/master/CanvasValueProposition.jpg)
 
 Lo siguiente fue elegir las 3 ideas que consideramos mas valiosas y que aportaban mayor valor a la solución del problema y las colocamos dentro de la Matriz de Ideas.
 
-![Matriz de Ideas](https://github.com/Diana-Pelaez/xxxxxxx.jpg)
+![Matriz de Ideas](https://github.com/Diana-Pelaez/ServiceDesign/blob/master/MatrizDeIdeas.jpg)
+
+
+![Matriz de Ideas](https://github.com/Diana-Pelaez/ServiceDesign/blob/master/MatrizDeIdeas02.jpg)
 
 Con esta información decidimos incluir **Personal Exclusivo** para los adultos mayores como Propuesta de valor para la solución del problema planteado y los **Cupones o Puntos a Ganar junto a su recibo de transacción** como nuestro "Diferenciador".
 
-![Matriz FODA](https://github.com/Diana-Pelaez/xxxxxxx.jpg)
+![Matriz FODA](https://github.com/Diana-Pelaez/ServiceDesign/blob/master/MatrizFODA.jpg)
 
 Con esta solución comenzamos la etapa de prototipado para ayudarmos a visualizar la idea y a hacer mejoras funcionales en el servicio para nuestros usuarios. 
